@@ -1,0 +1,4 @@
+petl==1.7.12
+jupyter==1.0.0
+matplotlib==3.7.2
+pandas==2.0.3
